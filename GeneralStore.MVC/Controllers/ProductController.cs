@@ -21,7 +21,6 @@ namespace GeneralStore.MVC.Controllers
             return View(orderedList);
         }
 
-
         // GET: Product/Create
         [HttpGet]
         public ActionResult Create()
